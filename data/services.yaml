@@ -1,0 +1,15 @@
+services:
+  - title: Remodeling
+    description: Home renovation and remodeling services.
+
+  - title: Painting
+    description: Interior and exterior painting.
+
+  - title: Handyman Services
+    description: General repairs and maintenance.
+
+  - title: General Construction
+    description: Residential construction projects.
+
+  - title: Home Repairs
+    description: Complete home repair solutions.

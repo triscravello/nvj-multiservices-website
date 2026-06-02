@@ -1,0 +1,36 @@
+name: NVJ Multiservices
+
+tagline: "Your One Stop Shop for All Your Home Repair Needs"
+
+phone: "(305) 849-0199"
+
+email: "NVJMultiservices@gmail.com"
+
+address: |
+  102101 Overseas Highway
+  Key Largo, FL 33037
+
+service_area:
+- Key Largo
+- Islamorada
+- Tavernier
+- Florida Keys
+
+social:
+  facebook: "https://www.facebook.com/profile.php?id=61579744499679"
+  instagram: "https://www.instagram.com/nvjmultiservices/"
+  tiktok: "https://www.tiktok.com/@nvjmultiservices"
+
+hours:
+  monday_friday: "8:00 AM - 4:30 PM"
+  saturday-sunday: "Closed"
+
+google_review_url: "https://www.google.com/maps/place/NVJ+Multiservices,+Inc/@25.1212166,-80.4155039,799m/data=!3m1!1e3!4m8!3m7!1s0x88d769dfdfe5e0ab:0x5d062c2a77f623b4!8m2!3d25.1212166!4d-80.4155039!9m1!1b1!16s%2Fg%2F11qgclx0fn?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D"
+
+hero:
+  headline: "Trusted Home Repair & Renovation Experts in the Florida Keys"
+  subheadline: "Quality workmanship, reliable service, and over 20 years of experience."
+
+seo:
+  title: "NVJ Multiservices | Home Repair & Renovation in the Florida Keys"
+  description: "Professional remodeling, painting, handyman services, and general construction throughout Key Largo and the Florida Keys."
