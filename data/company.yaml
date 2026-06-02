@@ -16,6 +16,12 @@ service_area:
 - Tavernier
 - Florida Keys
 
+stats: 
+  years_experience: 20
+  projects_completed: 100+
+  google_reviews: 20+
+  service_area: "Florida Keys"
+
 social:
   facebook: "https://www.facebook.com/profile.php?id=61579744499679"
   instagram: "https://www.instagram.com/nvjmultiservices/"

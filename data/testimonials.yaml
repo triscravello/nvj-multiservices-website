@@ -1,0 +1,37 @@
+testimonials:
+
+  - name: "Jimmy Miller"
+    location: "Key Largo, FL"
+    rating: 5
+    featured: true
+    source: "Google Review"
+    quote: >
+      Nelson and his team transformed a severely neglected property into a valuable asset.
+      He has never failed me, never disappointed me, and always finds a way to exceed
+      expectations. Skilled, dependable, honest, and trustworthy.
+
+  - name: "Maureen Graney"
+    rating: 5
+    featured: true
+    source: "Google Review"
+    quote: >
+      NVJ renovated my entire townhouse, from ceilings and flooring to lighting and
+      repairs. They were professional, trustworthy, and kept me updated throughout
+      the project while I was living out of state.
+
+  - name: "Kelly Vavra"
+    rating: 5
+    featured: true
+    source: "Google Review"
+    quote: >
+      We replaced every window in our home with impact windows. The craftsmanship
+      and finishing touches exceeded our expectations. We would absolutely use
+      NVJ again for future home improvement projects.
+
+  - name: "Bruce Neill"
+    rating: 5
+    featured: true
+    source: "Google Review"
+    quote: >
+      We've worked with NVJ for more than 12 years. Work is completed professionally,
+      on time, and with superb workmanship. I highly recommend them.
